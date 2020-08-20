@@ -1,0 +1,218 @@
+position	cityname	population
+01	São Luís	1101884
+02	Imperatriz	258682
+03	São José de Ribamar	177687
+04	Timon	169107
+05	Caxias	164880
+06	Codó	122859
+07	Paço do Lumiar	122197
+08	Açailândia	112445
+09	Bacabal	104949
+10	Balsas	94887
+11	Santa Inês	89044
+12	Barra do Corda	88212
+13	Pinheiro	83387
+14	Chapadinha	79675
+15	Santa Luzia	72667
+16	Buriticupu	72358
+17	Grajaú	69527
+18	Itapecuru-Mirim	68203
+19	Coroatá	65296
+20	Barreirinhas	62528
+21	Tutoia	58860
+22	Vargem Grande	56510
+23	Viana	52441
+24	Zé Doca	51714
+25	Lago da Pedra	50266
+26	Coelho Neto	49435
+27	Presidente Dutra	47804
+28	Araioses	46440
+29	São Bento	45211
+30	Rosário	42740
+31	Santa Helena	42130
+32	Estreito	41946
+33	Tuntum	41832
+34	Bom Jardim	41630
+35	São Mateus do Maranhão	41529
+36	Amarante do Maranhão	41435
+37	Colinas	41178
+38	Pedreiras	39229
+39	Penalva	38470
+40	Santa Rita	37855
+41	Brejo	36397
+42	Turiaçu	35604
+43	Parnarama	34907
+44	São Domingos do Maranhão	34376
+45	Bom Jesus das Selvas	34028
+46	Matões	33782
+47	Monção	33434
+48	Urbano Santos	33122
+49	Pindaré-Mirim	32941
+50	Vitória do Mearim	32764
+51	Cururupu	32695
+52	Arame	32701
+53	Alto Alegre do Pindaré	31919
+54	Vitorino Freire	31523
+55	Raposa	30761
+56	Arari	29848
+57	Buriti	28678
+58	Timbiras	29124
+59	Humberto de Campos	28717
+60	São Bernardo	28507
+61	Miranda do Norte	28381
+62	Icatu	27113
+63	Alto Alegre do Maranhão	27053
+64	Anajatuba	26803
+65	Aldeias Altas	26532
+66	Itinga do Maranhão	26000
+67	São João dos Patos	25929
+68	Santa Quitéria do Maranhão	25642
+69	Turilândia	25619
+70	Governador Nunes Freire	25577
+71	Santa Luzia do Paruá	25254
+72	Pedro do Rosário	25144
+73	Carolina	24322
+74	Porto Franco	23885
+75	Buriti Bravo	23884
+76	João Lisboa	23632
+77	Carutapera	23807
+78	Matinha	23370
+79	Dom Pedro	23350
+80	Peritoró	23196
+81	São Vicente Ferrer	22247
+82	Alcântara	22097
+83	Trizidela do Vale	21998
+84	Cantanhede	21995
+85	Centro Novo do Maranhão	21622
+86	Pio XII	21485
+87	Maracaçumé	21395
+88	Paraibano	21386
+89	Bequimão	21280
+90	Paulo Ramos	21040
+91	Mirador	21015
+92	Nova Olinda do Maranhão	20928
+93	São João Batista	20665
+94	Riachão	20195
+95	Cândido Mendes	20178
+96	Magalhães de Almeida	19826
+97	Palmeirândia	19722
+98	Olho d'Água das Cunhãs	19505
+99	Pastos Bons	19472
+100	Morros	19433
+101	Cajari	19379
+102	Formosa da Serra Negra	19089
+103	Passagem Franca	19019
+104	Presidente Sarney	18918
+105	São Raimundo das Mangabeiras	18868
+106	São Luís Gonzaga do Maranhão	18856
+107	Barão de Grajaú	18820
+108	São Benedito do Rio Preto	18663
+109	Pirapemas	18625
+110	Bacuri	18582
+111	São João do Soter	18543
+112	Governador Edison Lobão	18296
+113	Sítio Novo	18081
+114	Gonçalves Dias	17934
+115	Poção de Pedras	17873
+116	Esperantinópolis	17241
+117	Apicum-Açu	17239
+118	Bacabeira	17055
+119	Mata Roma	16829
+120	Governador Eugênio Barros	16828
+121	Matões do Norte	16745
+122	Jenipapo dos Vieiras	16515
+123	Bom Lugar	16294
+124	Lago Verde	16257
+125	Maranhãozinho	16265
+126	Conceição do Lago-Açu	16237
+127	Joselândia	16168
+128	Itaipava do Grajaú	16057
+129	Paulino Neves	16035
+130	Santo Amaro do Maranhão	15846
+131	São João do Caru	15808
+132	Anapurus	15732
+133	Fortuna	15552
+134	Buritirana	15430
+135	Araguanã	15426
+136	Primeira Cruz	15315
+137	Mirinzal	14962
+138	Olinda Nova do Maranhão	14701
+139	Cidelândia	14697
+140	Santo Antônio dos Lopes	14528
+141	Nina Rodrigues	14454
+142	Campestre do Maranhão	14374
+143	Peri Mirim	14318
+144	Senador La Rocque	14293
+145	Igarapé do Meio	14177
+146	Satubinha	13914
+147	Centro do Guilherme	13458
+148	Vila Nova dos Martírios	13392
+149	Santana do Maranhão	13386
+150	Davinópolis	12908
+151	Presidente Juscelino	12734
+152	São Pedro da Água Branca	12690
+153	Fortaleza dos Nogueiras	12631
+154	Água Doce do Maranhão	12571
+155	São Francisco do Maranhão	12210
+156	Loreto	12157
+157	Axixá	12130
+158	Guimarães	12030
+159	Lima Campos	11893
+160	Godofredo Viana	11819
+161	São Francisco do Brejão	11798
+162	Lagoa Grande do Maranhão	11394
+163	Duque Bacelar	11349
+164	Igarapé Grande	11320
+165	Lagoa do Mato	11250
+166	Bela Vista do Maranhão	11209
+167	Presidente Vargas	11193
+168	Alto Parnaíba	11190
+169	São João do Paraíso	11177
+170	Cajapió	11177
+171	Senador Alexandre Costa	11141
+172	Capinzal do Norte	10934
+173	Lago do Junco	10840
+174	Governador Archer	10840
+175	Cedral	10675
+176	Sucupira do Norte	10636
+177	Fernando Falcão	10360
+178	Serrano do Maranhão	10253
+179	Governador Newton Bello	10180
+180	Jatobá	10153
+181	Cachoeira Grande	9431
+182	Boa Vista do Gurupi	9287
+183	Brejo de Areia	9188
+184	Montes Altos	9160
+185	Lago dos Rodrigues	8873
+186	Central do Maranhão	8673
+187	Tasso Fragoso	8521
+188	Feira Nova do Maranhão	8504
+189	Milagres do Maranhão	8464
+190	Altamira do Maranhão	8128
+191	Governador Luiz Rocha	7807
+192	Marajá do Sena	7792
+193	Ribamar Fiquene	7791
+194	Santa Filomena do Maranhão	7773
+195	São José dos Basílios	7641
+196	Lajeado Novo	7550
+197	Belágua	7469
+198	São Domingos do Azeitão	7392
+199	Presidente Médici	7015
+200	Amapá do Maranhão	6962
+201	Luís Domingues	6951
+202	São Roberto	6719
+203	Afonso Cunha	6524
+204	Graça Aranha	6262
+205	Junco do Maranhão	6043
+206	Porto Rico do Maranhão	5975
+207	Tufilândia	5840
+208	Sambaíba	5671
+209	Sucupira do Riachão	5660
+210	Bacurituba	5644
+211	Benedito Leite	5632
+212	Nova Colinas	5384
+213	São Raimundo do Doca Bezerra	5237
+214	Nova Iorque	4683
+215	São Pedro dos Crentes	4668
+216	São Félix de Balsas	4585
+217	Bernardo do Mearim	3432
