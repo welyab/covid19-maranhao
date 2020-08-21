@@ -19,7 +19,11 @@ object ResourceUtil {
                     .readAll()
                     .asSequence()
                     .map { entry ->
-                        CityInfo(entry[1], entry[2].toInt())
+                        CityInfo(
+                                normalizeString(entry[1]),
+                                entry[1],
+                                entry[2].toInt()
+                        )
                     }
                     .toList()
         }
