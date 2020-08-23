@@ -25,6 +25,7 @@ class CsvDataExtractor(private val csvInput: InputStream, private val date: Loca
                 .readAll()
         val levenshtein = Levenshtein()
 
+        map = HashMap()
         ResourceUtil.cityInfos
                 .asSequence()
                 .map { it.id }
