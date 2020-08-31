@@ -2,10 +2,16 @@ package com.welyab.covid19.maranhao
 
 import com.opencsv.CSVParserBuilder
 import com.opencsv.CSVReaderBuilder
+import com.opencsv.CSVWriter
+import com.opencsv.bean.StatefulBeanToCsv
+import com.opencsv.bean.StatefulBeanToCsvBuilder
 import info.debatty.java.stringsimilarity.Levenshtein
+import java.io.FileWriter
 import java.io.InputStream
 import java.io.InputStreamReader
+import java.io.Writer
 import java.time.LocalDate
+
 
 class CsvDataExtractor(private val csvInput: InputStream, private val date: LocalDate) : DataExtractor {
 
