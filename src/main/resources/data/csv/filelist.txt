@@ -53,3 +53,4 @@ covid-maranhao-2020-08-27.csv
 covid-maranhao-2020-08-28.csv
 covid-maranhao-2020-08-29.csv
 covid-maranhao-2020-08-30.csv
+covid-maranhao-2020-08-31.csv
