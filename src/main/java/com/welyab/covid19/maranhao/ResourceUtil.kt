@@ -51,7 +51,7 @@ object ResourceUtil {
 
     private fun getFileContent(fileName: String): ByteArray {
         return this.javaClass.getResourceAsStream("/data/$fileName").use {
-            it.readAllBytes()
+            it.readBytes()
         }
     }
 }
