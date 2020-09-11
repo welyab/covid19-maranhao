@@ -21,19 +21,11 @@ fun main() {
     println("]")
 
     println("var activeCases = []")
-    println("var deaths = []")
     series.cases.forEach { entry ->
         print("activeCases[\"${entry.key}\"] = [")
         entry.value.forEachIndexed { index, cases ->
             if(index > 0) print(", ")
             print("${cases.infected}")
-        }
-        println("]")
-
-        print("deaths[\"${entry.key}\"] = [")
-        entry.value.forEachIndexed { index, cases ->
-            if(index > 0) print(", ")
-            print("${cases.deaths}")
         }
         println("]")
     }
