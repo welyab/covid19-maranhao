@@ -64,3 +64,8 @@ covid-maranhao-2020-09-07.csv
 covid-maranhao-2020-09-08.csv
 covid-maranhao-2020-09-09.csv
 covid-maranhao-2020-09-10.csv
+covid-maranhao-2020-09-11.csv
+covid-maranhao-2020-09-12.csv
+covid-maranhao-2020-09-13.csv
+covid-maranhao-2020-09-14.csv
+covid-maranhao-2020-09-15.csv
